@@ -80,9 +80,10 @@ Código
      444.27799000000000
    ]
  }
- 
+
 O painel de teste pegou os dados de entrada e usou o modelo treinado para retornar o número previsto de aluguéis.
 
 Abaixo os meus testes:
 ![alt text](img01.png)
+
 ![alt text](img02.png)
